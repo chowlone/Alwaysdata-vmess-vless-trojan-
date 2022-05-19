@@ -5,7 +5,7 @@ wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/ma
 chmod +x ./web
 
 if [[ -z $id ]]; then
-    id="1eb6e917-774b-4a84-aff6-b058577c60a5"
+    id="4fd46ad4-3272-4f3c-af05-241a14428f69"
 fi
 
 cat <<EOF > ~/config.json
