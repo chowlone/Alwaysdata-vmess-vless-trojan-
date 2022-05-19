@@ -1,6 +1,5 @@
-# Alwaysdata-vmess-vless-trojan-
-Alwaysdata 搭建 vmess / vless / trojan 节点
 
+# Alwaysdata 搭建 vmess / vless / trojan 节点
 
 ## 建议使用临时邮箱，避免封号！
 
@@ -29,6 +28,7 @@ wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/ma
 2. 修改网站空间配置
 
 **Command**：```./vmess.sh```或```./vless.sh```或```./torjan.sh```
+
 **Environment**：```id=你的UUID```
 
 
