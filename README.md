@@ -28,6 +28,8 @@ wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/ma
 
 2. 修改网站空间配置
 
+Command：```./vmess.sh```或```./vless.sh```或```./torjan.sh```
+
 ## 客户端配置
 
 vmess / vless
