@@ -1,7 +1,7 @@
 
 # Alwaysdata 搭建 vmess / vless / trojan 节点
 
-## 建议使用临时邮箱，避免封号！
+建议使用临时邮箱，避免封号！
 
 ## 搭建步骤
 
@@ -39,7 +39,7 @@ vmess / vless
 ```
 地址：appname.alwaysdata.net
 端口：443
-默认UUID：1eb6e917-774b-4a84-aff6-b058577c60a5
+默认UUID：4fd46ad4-3272-4f3c-af05-241a14428f69
 vmess额外id：0
 加密：none
 传输协议：ws
@@ -60,7 +60,7 @@ Trojan-go
     "remote_addr": "appname.alwaysdata.net",
     "remote_port": 443,
     "password": [
-        "1eb6e917-774b-4a84-aff6-b058577c60a5"
+        "4fd46ad4-3272-4f3c-af05-241a14428f69"
     ],
     "websocket": {
         "enabled": true,
