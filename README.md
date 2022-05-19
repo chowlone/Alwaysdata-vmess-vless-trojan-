@@ -2,7 +2,7 @@
 Alwaysdata 搭建 vmess / vless / trojan 节点
 
 
-# 建议使用临时游戏，避免封号！
+## 建议使用临时邮箱，避免封号！
 
 ## 搭建步骤
 
